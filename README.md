@@ -30,7 +30,7 @@ Auth Service -> RabbitMQ -> Product Service (User Events)
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/faruque032/lyxa-ai-test-services.git
    cd lyxa-ai-test-services
    ```
 
